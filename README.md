@@ -1,4 +1,4 @@
-Hey there! 👋 My name is Mathooshan Manoharan
+Hey there! 👋 My name is Mathooshan 
 
 ## I'm a student passionate about learning as much as I can about everything I possibly can! 
 
