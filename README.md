@@ -18,3 +18,8 @@ Hey there! 👋 My name is Mathooshan Manoharan
 [![Instagram](https://scaleupyourpractice.com/wp-content/uploads/2019/05/insta-icon.png) Instagram](https://www.instagram.com/_m.squared/)
 &nbsp;
 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mathooshan-manoharan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/mathooshan-manoharan?trk=profile-badge">Mathooshan Manoharan</a></div>
+              
