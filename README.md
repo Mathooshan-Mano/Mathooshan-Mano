@@ -13,6 +13,5 @@ Hey there! 👋 My name is Mathooshan Manoharan
 [<img alt="alt_text" width="40px" src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=tag" />](https://www.instagram.com/_m.squared/)
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/mathooshan-manoharan)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
