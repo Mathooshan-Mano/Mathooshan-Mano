@@ -12,7 +12,7 @@ Hey there! 👋 My name is Mathooshan Manoharan
 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/mathooshan-manoharan)
+[![Linkedin](https://freeiconshop.com/wp-content/uploads/edd/linkedin-flat.png) LinkedIn](https://www.linkedin.com/in/mathooshan-manoharan/)
 &nbsp;
 
 [![Instagram](https://scaleupyourpractice.com/wp-content/uploads/2019/05/insta-icon.png) Instagram](https://www.instagram.com/_m.squared/)
