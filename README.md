@@ -10,4 +10,4 @@ Hey there! 👋 My name is Mathooshan Manoharan
 ### Connect with me:
 
 [<img alt="alt_text" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1648520050~hmac=58a41b1cb84bb18b177b3a68bd1cfe15" />](https://ca.linkedin.com/in/mathooshan-m-1809)
-[<img alt="alt_text" width="40px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1648520121~hmac=75fef381616fcfe152d9fe3f92e35b02" />](https://www.instagram.com/_m.squared/)
+[<img alt="alt_text" width="40px" src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=tag" />](https://www.instagram.com/_m.squared/)
